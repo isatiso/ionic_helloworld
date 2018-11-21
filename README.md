@@ -1,1 +1,1 @@
-ionic_helloworld
+helloWorld
